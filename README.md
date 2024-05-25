@@ -27,7 +27,7 @@ The objective of this project was to set up my own media server using Jellyfin. 
 
 <img width="907" alt="1" src="https://github.com/benjuliano1/Home-Media-Server/assets/170282669/e911af4f-63e9-40e0-abf9-5e10e65d4f72">
 
-2. Next, the Zimaboard will need additional storage to host my media. I had a 2TB Western Digital drive laying around that I could reformat to exFat for use with Linux. I accomplished this using the diskpart tool in command prompt.
+2. Next, the Zimaboard will need additional storage to host my media. I had a 2TB Western Digital drive laying around that I could reformat to exFat for use with Linux. I accomplished this using the diskpart tool in Command Prompt.
 
 3. Before plugging the 2TB storage into the Zimaboard, I navigate to Settings on the CasaOS homepage and select the “Auto-mount USB drive” toggle to make sure it is available to Jellyfin when I set up my library.
 
@@ -49,7 +49,7 @@ The objective of this project was to set up my own media server using Jellyfin. 
 
 <img width="929" alt="6" src="https://github.com/benjuliano1/Home-Media-Server/assets/170282669/b6d5fdc3-8dc7-4aff-be01-64de317344dd">
 
-8. To get the IP to my new server, we return to CasaOS, open the terminal, and run the command “hostname -I”.
+8. To get the IP for my new server, we return to CasaOS, open the terminal, and run the command “hostname -I”.
 
 <img width="584" alt="7" src="https://github.com/benjuliano1/Home-Media-Server/assets/170282669/f5219fb8-ce69-4e35-8c08-6162b64525f7">
 
